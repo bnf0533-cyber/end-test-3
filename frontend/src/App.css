@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+section {
+    margin-top: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+input,
+select,
+button {
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    cursor: pointer;
+}
+
+a {
+    margin-right: 10px;
+}
+
+.attack-alert {
+    color: red;
+}
